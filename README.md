@@ -1,13 +1,4 @@
-Adds it (the joke) to the LazyColumn at the end
+Jokes Demo App 
 
-Kotlin
-
-Jetpack Compose (Make a Theme)
-Coroutines
-
-Retrofit 
-
-Hilt
-
-Clean architecture approach
+Using Kotlin, Jetpack Compose, Coroutines, Retrofit, Hilt, MVVM Clean architecture approach
 
