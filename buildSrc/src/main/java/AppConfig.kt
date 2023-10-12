@@ -1,5 +1,5 @@
 object AppConfig {
-    const val applicationId = "com.iamkamrul.compose"
+    const val applicationId = "com.ashish.compose"
     const val testRunner = "androidx.test.runner.AndroidJUnitRunner"
     const val minSdkVersion = 21
     const val compileSdkVersion = 33

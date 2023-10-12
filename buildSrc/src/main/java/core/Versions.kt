@@ -9,7 +9,7 @@ internal object Versions {
     const val lifecycleVersion = "2.5.1"
     const val runtimeComposeVersion = "2.6.0-beta01"
     const val retrofitVersion = "2.9.0"
-    val hiltVersion:String = System.getProperty("hiltVersion")
+    val hiltVersion: String = System.getProperty("hiltVersion")
     const val hiltNavigationComposeVersion = "1.0.0"
     const val timberVersion = "5.0.1"
     const val okhttp3Version = "4.10.0"
@@ -20,5 +20,5 @@ internal object Versions {
     const val espressoCoreVersion = "3.5.0"
     const val jUnitVersion = "4.13.2"
     const val jUnitExtVersion = "1.1.4"
-
+    const val roomVersion = "2.4.0"
 }

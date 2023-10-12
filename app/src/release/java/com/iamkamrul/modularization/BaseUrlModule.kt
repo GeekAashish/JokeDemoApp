@@ -1,6 +1,6 @@
-package com.iamkamrul.modularization
+package com.ashish.modularization
 
-import com.iamkamrul.di.qualifier.AppBaseUrl
+import com.ashish.di.qualifier.AppBaseUrl
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

@@ -1,4 +1,5 @@
 package dependencies
+
 import core.Dependencies
 
 internal val androidComposeDependencies = listOf(
@@ -21,6 +22,14 @@ internal val androidxLifeCycleDependencies = listOf(
 internal val coroutinesAndroidDependencies = listOf(
     Dependencies.kotlinCoroutines,
 )
+
+internal val roomAndroidDependencies = listOf(
+    Dependencies.room,
+    Dependencies.roomrxJava,
+    Dependencies.roomcompiler,
+    Dependencies.roomGuava,
+)
+
 
 internal val coilImageLoadingDependencies = listOf(
     Dependencies.coil,
