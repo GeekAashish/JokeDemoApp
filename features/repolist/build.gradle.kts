@@ -3,5 +3,5 @@ plugins {
 }
 
 android {
-    namespace = "com.iamkamrul.repolist"
+    namespace = "com.ashish.repolist"
 }
